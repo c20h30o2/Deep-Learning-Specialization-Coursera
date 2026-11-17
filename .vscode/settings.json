@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
+    "jupyter.notebookFileRoot": "${fileDirname}",
+    "files.watcherExclude": {
+        "**/.venv/**": true
+    }
+}

@@ -2,6 +2,11 @@
 Special thanks to Andrew Ng and the rest of the Coursera team for creating a very accessible Deep Learning Specialization. 
 This repository contains the unsolved versions of the programming assignments as well as the quizzes and exploratory labs provided.
 
+## Windows / VS Code / uv 环境
+
+本仓库提供统一的 `pyproject.toml`、`uv.lock` 和 Python 版本配置，覆盖常规 lab 与 Transformer bonus 的第三方 Python 依赖。
+Windows x64 的安装、Jupyter 内核选择及数据文件说明见 **[本地环境指南](docs/environment.md)**。
+
 ## How to do the exercises
 The exercises typically use Interactive Python Notebooks (ie: the `.ipynb` files). You can use tools such as [Google Colaboratory](https://colab.research.google.com/), [Deepnote](deepnote.com), [Jupyter Notebooks](https://jupyter.org/)
 
